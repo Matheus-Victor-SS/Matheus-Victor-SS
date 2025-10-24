@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Matheus Victor da Silva Santos</h1>
 
 <p align="center">
@@ -20,11 +19,17 @@
 
 Sou **Matheus Victor da Silva Santos**, tenho **18 anos**, moro em **Jundiaí - SP** e atualmente estou cursando o **último ano do curso Técnico em Informática para Internet** na **ETEC Vasco Antônio Venchiarutti**.  
 
-Durante minha jornada acadêmica, venho desenvolvendo habilidades voltadas para **desenvolvimento web full stack**, com foco em **HTML, CSS, JavaScript, PHP e MySQL**, além de explorar linguagens como **C#, C++ e Python**.
+Durante minha trajetória acadêmica, venho aprimorando minhas habilidades em **desenvolvimento web full stack**, com foco em **HTML, CSS, JavaScript, PHP e MySQL**, além de explorar linguagens como **C#, C++ e Python**.  
 
-Em **2025**, fui **premiado na 15ª edição da Bragantec** na categoria **Empreendedorismo**, com o projeto **HireUp** — um **protótipo de site para contratação de freelancers**, que visa conectar profissionais e contratantes de forma rápida e eficiente.
+Fui **premiado na 15ª edição da Bragantec (2025)** na categoria **Empreendedorismo** com o projeto **HireUp**, um **protótipo de plataforma para contratação de freelancers**.  
 
-Sou apaixonado por **tecnologia, inovação e empreendedorismo**, sempre em busca de novos desafios que me permitam aprender e evoluir tanto profissional quanto pessoalmente.
+Sou movido por desafios e tenho como objetivo crescer na área de tecnologia, contribuindo com soluções inovadoras e eficientes.
+
+---
+
+### 🎯 Objetivo Profissional
+
+Busco uma **oportunidade como desenvolvedor web, programador ou estagiário na área de TI**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e colaborar no desenvolvimento de projetos que gerem impacto positivo.
 
 ---
 
@@ -37,28 +42,38 @@ Sou apaixonado por **tecnologia, inovação e empreendedorismo**, sempre em busc
 
 ---
 
-### 📊 Dashboard de Conhecimento
+### 📊 Tecnologias em foco
 
 <!-- badges: start -->
-[![HTML + CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-70%25-blue?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-60%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-65%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![PHP](https://img.shields.io/badge/PHP-55%25-violet?style=for-the-badge&logo=php&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-50%25-skyblue?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![AJAX](https://img.shields.io/badge/AJAX-45%25-green?style=for-the-badge&logo=javascript&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-40%25-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-35%25-darkblue?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-30%25-yellowgreen?style=for-the-badge&logo=python&logoColor=white)](#)
-[![XAMPP](https://img.shields.io/badge/XAMPP-55%25-orange?style=for-the-badge&logo=xampp&logoColor=white)](#)
+[![HTML + CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-blue?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![PHP](https://img.shields.io/badge/PHP-violet?style=for-the-badge&logo=php&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-darkblue?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 <!-- badges: end -->
 
 ---
 
 ### 💼 Projetos em Destaque
-
-- **Sistemas Web** — Aplicações utilizando **PHP, MySQL, HTML e JavaScript**  
+  
+- **Sistemas Web** — Aplicações completas utilizando **PHP, MySQL, HTML e JavaScript**  
 - **Páginas Responsivas** — Desenvolvimento de interfaces modernas com **Bootstrap e CSS3**  
-- **Projetos de Lógica** — Exercícios em **C#, C++ e Python**, focando em resolução de problemas  
+- **Projetos de Lógica** — Exercícios em **C#, C++ e Python**, focados em resolução de problemas  
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight)
+
+
+### 💡 Soft Skills
+
+- Trabalho em equipe e colaboração  
+- Comunicação clara e empática  
+- Organização e atenção aos detalhes  
+- Capacidade de adaptação e aprendizado contínuo  
+- Foco em resultados e resolução de problemas  
 
 ---
 

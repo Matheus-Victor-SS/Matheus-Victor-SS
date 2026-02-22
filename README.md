@@ -10,14 +10,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou **Matheus Victor da Silva Santos**, tenho **18 anos**, moro em **Jundiaí - SP** e atualmente estou cursando o **último ano do curso Técnico em Informática para Internet** na **ETEC Vasco Antônio Venchiarutti**.  
+Sou **Matheus Victor da Silva Santos**, tenho **18 anos**, moro em **Jundiaí - SP** , atualmente estou cursando Gestão de TI na FATEC Deputado Ary Fossen. Conclui o **ensino no curso Técnico em Informática para Internet** na **ETEC Vasco Antônio Venchiarutti**.  
 
 Durante minha trajetória acadêmica, venho aprimorando minhas habilidades em **desenvolvimento web full stack**, com foco em **HTML, CSS, JavaScript, PHP e MySQL**, além de explorar linguagens como **C#, C++ e Python**.  
 
@@ -29,16 +28,16 @@ Sou movido por desafios e tenho como objetivo crescer na área de tecnologia, co
 
 ### 🎯 Objetivo Profissional
 
-Busco uma **oportunidade como desenvolvedor web, programador ou estagiário na área de TI**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e colaborar no desenvolvimento de projetos que gerem impacto positivo.
+Busco uma **oportunidade como desenvolvedor web, programador jr ou estagiário na área de TI**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e colaborar no desenvolvimento de projetos que gerem impacto positivo.
 
 ---
 
 ### 🧩 Tecnologias e Ferramentas que estou aprendendo
 
 - **Front-end:** HTML5, CSS3, Bootstrap, JavaScript  
-- **Back-end:** PHP, MySQL, AJAX  
+- **Back-end:** PHP, MySQL, AJAX, JQuery  
 - **Outras linguagens:** C#, C++, Python  
-- **Ferramentas e Ambientes:** Git, GitHub, VS Code, XAMPP  
+- **Ferramentas e Ambientes:** Git, GitHub, VS Code, XAMPP, VMBox 
 
 ---
 
@@ -52,7 +51,6 @@ Busco uma **oportunidade como desenvolvedor web, programador ou estagiário na �
 [![MySQL](https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-darkblue?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 <!-- badges: end -->
 
 ---
@@ -64,8 +62,6 @@ Busco uma **oportunidade como desenvolvedor web, programador ou estagiário na �
 - **Projetos de Lógica** — Exercícios em **C#, C++ e Python**, focados em resolução de problemas  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight)
-
 
 ### 💡 Soft Skills
 

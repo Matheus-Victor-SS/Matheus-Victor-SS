@@ -102,8 +102,12 @@ Ferramenta para cálculo de salário líquido considerando descontos básicos.
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Victor-SS&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-Victor-SS&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheus-Victor-SS&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-Victor-SS&theme=github_dark"/>
 </p>
 ---
 

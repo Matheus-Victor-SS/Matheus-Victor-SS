@@ -53,22 +53,22 @@ Meu foco atual está principalmente em:
 
 ## Front-End
 
-HTML
-CSS
-Bootstrap
-JavaScript
-jQuery
+HTML,
+CSS,
+Bootstrap,
+JavaScript,
+jQuery,
 
 ## Back-End
 
-PHP
-MySQL
-AJAX
+PHP,
+MySQL,
+AJAX,
 
 ## Linguagens adicionais
 
-Python
-C# (básico)
+Python,
+C# (básico),
 C / C++ (contato acadêmico)
 
 ---
@@ -174,9 +174,9 @@ Sistema web com **CRUD completo usando PHP e MySQL**, simulando um painel admini
 
 Exemplo:
 
-```
+
 [![Lista de Mercado](https://img.shields.io/badge/Projeto-Lista%20de%20Mercado-blue?style=for-the-badge)](LINK_DO_REPOSITORIO)
-```
+
 
 
 # 📊 Estatísticas do GitHub

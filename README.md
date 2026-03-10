@@ -99,7 +99,6 @@ Ferramenta para cálculo de salário líquido considerando descontos básicos.
 🔗 https://github.com/Matheus-Victor-SS/Calculadora-de-Salario-com-JS
 
 ---
-
 ### 📊 Estatísticas
 
 <p align="center">
@@ -107,6 +106,9 @@ Ferramenta para cálculo de salário líquido considerando descontos básicos.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Victor-SS&theme=tokyo-night"/>
+</p>
 ---
 
 ### 💡 Soft Skills

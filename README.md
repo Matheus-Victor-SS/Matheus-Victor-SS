@@ -99,15 +99,11 @@ Ferramenta para cálculo de salário líquido considerando descontos básicos.
 🔗 https://github.com/Matheus-Victor-SS/Calculadora-de-Salario-com-JS
 
 ---
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Victor-SS&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Victor-SS&theme=tokyo-night"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Victor-SS&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight"/>
 </p>
 ---
 

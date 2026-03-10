@@ -49,109 +49,73 @@ Interesse principal em:
 
 ### 🧰 Tecnologias e Ferramentas
 
-**Front-End**
+| Área | Tecnologias |
+|-----|-----|
+| **Front-End** | HTML • CSS • Bootstrap • JavaScript • jQuery |
+| **Back-End** | PHP • MySQL • AJAX |
+| **Outras Linguagens** | Python • C# (básico) • C / C++ (contato acadêmico) |
+| **Ferramentas** | Git • GitHub • VS Code • WordPress • XAMPP |
+| **Sistemas** | Linux • Windows |
+| **Virtualização** | VMBox / VirtualBox |
 
-HTML  
-CSS  
-Bootstrap  
-JavaScript  
-jQuery  
-
-**Back-End**
-
-PHP  
-MySQL  
-AJAX  
-
-**Outras Linguagens**
-
-Python  
-C# (básico)  
-C / C++ (contato acadêmico)
-
-**Ferramentas e Ambientes**
-
-Git  
-GitHub  
-VS Code  
-WordPress  
-XAMPP  
-
-**Sistemas Operacionais**
-
-Linux  
-Windows  
-
-Conhecimento em **virtualização utilizando VMBox / VirtualBox**, criando ambientes de desenvolvimento em diferentes sistemas operacionais.
+Conhecimento em **virtualização**, criando ambientes de desenvolvimento com **Linux e Windows**.
 
 ---
 
 ### 💼 Projetos em Destaque
 
 #### 🛒 ListaDeMercadoJS
-Aplicação web interativa em JavaScript com paginação, edição dinâmica e armazenamento no navegador.
-
+Aplicação web interativa em JavaScript com paginação, edição dinâmica e armazenamento no navegador.  
 🔗 https://github.com/Matheus-Victor-SS/ListaDeMercadoJS
 
 ---
 
 #### 💇 HericaHair
-Site responsivo desenvolvido para salão de beleza com foco em layout moderno e experiência mobile.
-
+Site responsivo desenvolvido para salão de beleza com foco em layout moderno e experiência mobile.  
 🔗 https://github.com/Matheus-Victor-SS/HericaHair
 
 ---
 
 #### 🎵 AfinadorCromaticoJS
-Aplicação web capaz de identificar frequências de som para auxiliar na afinação de instrumentos musicais.
-
+Aplicação web capaz de identificar frequências de som para auxiliar na afinação de instrumentos musicais.  
 🔗 https://github.com/Matheus-Victor-SS/AfinadorCromaticoJS
 
 ---
 
 #### 🧑‍💼 HireUp-Freelancer-Hiring-Platform
-Protótipo de plataforma para contratação de freelancers desenvolvido como projeto acadêmico premiado na Bragantec.
-
+Protótipo de plataforma para contratação de freelancers desenvolvido como projeto acadêmico premiado na Bragantec.  
 🔗 https://github.com/Matheus-Victor-SS/HireUp-Freelancer-Hiring-Platform
 
 ---
 
 #### 📦 Sistema-de-Gerenciamento-de-Produtos-com-PHP-AJAX-e-MySQL
-Sistema web com CRUD completo para gerenciamento de produtos utilizando PHP, AJAX e MySQL.
-
+Sistema web com CRUD completo para gerenciamento de produtos utilizando PHP, AJAX e MySQL.  
 🔗 https://github.com/Matheus-Victor-SS/Sistema-de-Gerenciamento-de-Produtos-com-PHP-AJAX-e-MySQL
 
 ---
 
 #### 💰 Calculadora-de-Salário-com-JS
-Ferramenta para cálculo de salário líquido considerando descontos básicos.
-
+Ferramenta para cálculo de salário líquido considerando descontos básicos.  
 🔗 https://github.com/Matheus-Victor-SS/Calculadora-de-Salario-com-JS
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Victor-SS&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ### 💡 Soft Skills
 
-**Comunicação**
-
-- Comunicação clara  
-- Facilidade de colaboração em equipe  
-
-**Organização**
-
-- Atenção aos detalhes  
-- Organização em projetos e tarefas  
-
-**Aprendizado**
-
-- Facilidade de aprendizado  
-- Curiosidade tecnológica  
-- Busca constante por evolução técnica  
-
-**Resolução de Problemas**
-
-- Pensamento lógico  
-- Análise e solução de problemas  
+| Comunicação | Organização | Aprendizado | Resolução de Problemas |
+|---|---|---|---|
+| Comunicação clara | Atenção aos detalhes | Facilidade de aprendizado | Pensamento lógico |
+| Trabalho em equipe | Organização de tarefas | Curiosidade tecnológica | Análise de problemas |
+| Colaboração | Responsabilidade | Evolução contínua | Busca por soluções |
 
 ---
 

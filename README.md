@@ -123,24 +123,10 @@ Sistema web com CRUD completo para gerenciamento de produtos utilizando PHP, AJA
 
 ---
 
-#### 🎸 Instrumentos-Musicais-DOM-JavaScript
-Projeto experimental envolvendo interação com DOM e manipulação de sons de instrumentos.
-
-🔗 https://github.com/Matheus-Victor-SS/Instrumentos-Musicais-DOM-JavaScript
-
----
-
 #### 💰 Calculadora-de-Salário-com-JS
 Ferramenta para cálculo de salário líquido considerando descontos básicos.
 
 🔗 https://github.com/Matheus-Victor-SS/Calculadora-de-Salario-com-JS
-
----
-
-#### 🎹 Afinador-de-Instrumentos-Cromatico-JS
-Projeto experimental relacionado a identificação de notas musicais através de frequência sonora.
-
-🔗 https://github.com/Matheus-Victor-SS/Afinador-de-Instrumentos-Cromatico-JS
 
 ---
 

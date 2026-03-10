@@ -1,86 +1,238 @@
-
-<h1 align="center">Matheus Victor da Silva Santos</h1>
+# Matheus Victor da Silva Santos
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
+
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou **Matheus Victor da Silva Santos**, tenho **18 anos**, moro em **Jundiaí - SP** , atualmente estou cursando Gestão de TI na FATEC Deputado Ary Fossen. Conclui o **ensino no curso Técnico em Informática para Internet** na **ETEC Vasco Antônio Venchiarutti**.  
+Sou **Matheus Victor da Silva Santos**, tenho **18 anos** e moro em **Jundiaí – SP**.
 
-Durante minha trajetória acadêmica, venho aprimorando minhas habilidades em **desenvolvimento web full stack**, com foco em **HTML, CSS, JavaScript, PHP e MySQL**, além de explorar linguagens como **C#, C++ e Python**.  
+Atualmente curso **Gestão de TI na FATEC Deputado Ary Fossen** e concluí o ensino médio com **Técnico em Informática para Internet pela ETEC Vasco Antônio Venchiarutti**.
 
-Fui **premiado na 15ª edição da Bragantec (2025)** na categoria **Empreendedorismo** com o projeto **HireUp**, um **protótipo de plataforma para contratação de freelancers**.  
+Tenho focado meus estudos principalmente em **desenvolvimento web**, com maior afinidade em **Front-End e JavaScript**, além de experiência com **PHP, MySQL e Python**.
 
-Sou movido por desafios e tenho como objetivo crescer na área de tecnologia, contribuindo com soluções inovadoras e eficientes.
+Durante minha formação também tive contato com linguagens como **C, C++ e C#**, porém **meu foco principal hoje é o desenvolvimento web**, especialmente **interfaces e aplicações front-end**.
 
----
-
-### 🎯 Objetivo Profissional
-
-Busco uma **oportunidade como desenvolvedor web, programador jr ou estagiário na área de TI**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e colaborar no desenvolvimento de projetos que gerem impacto positivo.
+Em **2025 fui premiado na 15ª edição da Bragantec** na categoria **Empreendedorismo** com o projeto **HireUp**, um protótipo de **plataforma para contratação de freelancers**.
 
 ---
 
-### 🧩 Tecnologias e Ferramentas que estou aprendendo
+# 🎯 Objetivo Profissional
 
-- **Front-end:** HTML5, CSS3, Bootstrap, JavaScript  
-- **Back-end:** PHP, MySQL, AJAX, JQuery  
-- **Outras linguagens:** C#, C++, Python  
-- **Ferramentas e Ambientes:** Git, GitHub, VS Code, XAMPP, VMBox 
+Busco uma oportunidade como:
 
----
+• **Estagiário em Desenvolvimento Web**
+• **Desenvolvedor Front-End Junior**
+• **Programador Junior**
 
-### 📊 Tecnologias em foco
+Meu foco atual está principalmente em:
 
-<!-- badges: start -->
-[![HTML + CSS](https://img.shields.io/badge/HTML%20%2B%20CSS-blue?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![PHP](https://img.shields.io/badge/PHP-violet?style=for-the-badge&logo=php&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-<!-- badges: end -->
+* Desenvolvimento **Front-End**
+* **JavaScript**
+* **Interfaces Web modernas**
+* Evolução gradual para **Full Stack**
 
 ---
 
-### 💼 Projetos em Destaque
-  
-- **Sistemas Web** — Aplicações completas utilizando **PHP, MySQL, HTML e JavaScript**  
-- **Páginas Responsivas** — Desenvolvimento de interfaces modernas com **Bootstrap e CSS3**  
-- **Projetos de Lógica** — Exercícios em **C#, C++ e Python**, focados em resolução de problemas  
+# 🚀 Tecnologias e Ferramentas
+
+## Front-End
+
+HTML
+CSS
+Bootstrap
+JavaScript
+jQuery
+
+## Back-End
+
+PHP
+MySQL
+AJAX
+
+## Linguagens adicionais
+
+Python
+C# (básico)
+C / C++ (contato acadêmico)
 
 ---
 
-### 💡 Soft Skills
+# 🧰 Ferramentas e Ambientes
 
-- Trabalho em equipe e colaboração  
-- Comunicação clara e empática  
-- Organização e atenção aos detalhes  
-- Capacidade de adaptação e aprendizado contínuo  
-- Foco em resultados e resolução de problemas  
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+
+</p>
+
+Também possuo **conhecimento em virtualização**, utilizando **VMBox / VirtualBox** para criação de ambientes de desenvolvimento e testes em diferentes sistemas operacionais.
+
+Experiência com:
+
+* **Linux**
+* **Windows**
+* ambientes virtuais para desenvolvimento
 
 ---
 
-### 📬 Contato
+# 💼 Projetos em Destaque
 
-- **📧 Email:** [matheus.victor.ss48@gmail.com](mailto:matheus.victor.ss48@gmail.com)  
-- **💼 LinkedIn:** [Matheus Victor da Silva Santos](https://www.linkedin.com/in/matheus-victor-a673022a9)  
-- **📍 Localização:** Jundiaí, São Paulo - Brasil  
+### 🧑‍💼 HireUp — Plataforma para Freelancers
+
+Protótipo de plataforma web para **contratação de freelancers**, premiado na **Bragantec 2025**.
+
+🔗 Repositório
+[https://github.com/Matheus-Victor-SS/HireUp](https://github.com/Matheus-Victor-SS/HireUp)
+
+---
+
+### 🛒 Lista de Mercado Interativa
+
+Aplicação web desenvolvida em **JavaScript** com funcionalidades como:
+
+* paginação de itens
+* edição dinâmica
+* validação de dados
+* armazenamento com **LocalStorage**
+
+🔗 Repositório
+[https://github.com/Matheus-Victor-SS/ListaDeMercadoJS](https://github.com/Matheus-Victor-SS/ListaDeMercadoJS)
+
+---
+
+### 💰 Calculadora de Salário
+
+Ferramenta web que calcula **salário líquido e descontos**, desenvolvida para prática de lógica e JavaScript.
+
+🔗 Repositório
+[https://github.com/Matheus-Victor-SS/CalculadoraSalario](https://github.com/Matheus-Victor-SS/CalculadoraSalario)
+
+---
+
+### 🎵 Afinador Cromático
+
+Aplicação web que utiliza **frequência sonora** para auxiliar na **afinação de instrumentos musicais**.
+
+🔗 Repositório
+[https://github.com/Matheus-Victor-SS/AfinadorCromatico](https://github.com/Matheus-Victor-SS/AfinadorCromatico)
+
+---
+
+### 🎸 Identificador de Instrumentos
+
+Projeto experimental envolvendo **frequências sonoras e identificação de notas musicais**.
+
+🔗 Repositório
+[https://github.com/Matheus-Victor-SS/IdentificadorInstrumentos](https://github.com/Matheus-Victor-SS/IdentificadorInstrumentos)
+
+---
+
+### 💇 Site Responsivo para Cabeleireira
+
+Site responsivo desenvolvido com:
+
+* HTML
+* CSS
+* JavaScript
+
+focado em **design moderno e mobile first**.
+
+🔗 Repositório
+[https://github.com/Matheus-Victor-SS/SiteCabeleireira](https://github.com/Matheus-Victor-SS/SiteCabeleireira)
+
+---
+
+### 📦 Sistema de Gerenciamento de Produtos
+
+Sistema web com **CRUD completo usando PHP e MySQL**, simulando um painel administrativo.
+
+🔗 Repositório
+[https://github.com/Matheus-Victor-SS/GerenciamentoProdutosPHP](https://github.com/Matheus-Victor-SS/GerenciamentoProdutosPHP)
+
+---
+
+Exemplo:
+
+```
+[![Lista de Mercado](https://img.shields.io/badge/Projeto-Lista%20de%20Mercado-blue?style=for-the-badge)](LINK_DO_REPOSITORIO)
+```
+
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Victor-SS&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Victor-SS&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Atividade no GitHub
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Victor-SS&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💡 Soft Skills
+
+✔ Trabalho em equipe
+✔ Comunicação clara
+✔ Organização
+✔ Aprendizado contínuo
+✔ Resolução de problemas
+
+---
+
+# 📬 Contato
+
+📧 Email
+[matheus.victor.ss48@gmail.com](mailto:matheus.victor.ss48@gmail.com)
+
+💼 LinkedIn
+[https://www.linkedin.com/in/matheus-victor-a673022a9](https://www.linkedin.com/in/matheus-victor-a673022a9)
+
+📍 Localização
+Jundiaí — São Paulo — Brasil
 
 ---
 
 <p align="center">
-  <em>“A tecnologia é a ferramenta que transforma ideias em realidade.”</em>
+"A tecnologia é a ferramenta que transforma ideias em realidade."
 </p>
+
+---
+
+💡 **Dica profissional importante:**
+Seu GitHub já está **muito bom para alguém de 18 anos**. Se quiser, eu também posso te mostrar **3 melhorias que fazem recrutadores prestarem muito mais atenção no seu perfil**, como:
+
+* transformar seus projetos em **cards clicáveis**
+* criar uma **seção de projetos com preview visual**
+* deixar o perfil com **visual de desenvolvedor sênior (mesmo sendo júnior)**.
